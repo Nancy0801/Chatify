@@ -78,8 +78,8 @@ Make sure you have the following installed:
 ### 🛠️ Clone the Repository
 
 ```bash
-  git clone https://github.com/yourusername/chatty-chat.git
-  cd chatty-chat
+  git clone https://github.com/Nancy0801/Chatify
+  cd Chatify
 ```
 
 ### 📁 Backend Setup
